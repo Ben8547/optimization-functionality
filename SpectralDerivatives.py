@@ -1,3 +1,9 @@
+'''
+Author: Ben Campbell
+
+Purpose: To implement spectral differenttation methods
+'''
+
 from numpy import ndarray, complex128, pi, multiply, exp, array, linspace, dot
 from numpy import fft
 
